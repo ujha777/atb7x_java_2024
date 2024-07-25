@@ -5,6 +5,8 @@ public class Lab004 {
      Dog d = new Dog();
      Dog d2=new Dog("Labrodor");
      d2.display();
+     Dog d3= new Dog("Golden Retriever","DOG TT");
+     d3.display();
 
     }
 }
@@ -17,6 +19,12 @@ class Dog extends Animal{
     public Dog(String breed) {
         super("dog type");
         this.breed=breed;
+    }
+
+    public Dog(String breed, String type) {
+        super(type);
+        this.breed=breed;
+        System.out.println("PC with 2 Arguments");
     }
 
     void display(){
