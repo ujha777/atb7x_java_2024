@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Main.iml" filepath="$PROJECT_DIR$/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPattern/NumberPattern.iml" filepath="$PROJECT_DIR$/NumberPattern/NumberPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star Pattern/Star Pattern.iml" filepath="$PROJECT_DIR$/Star Pattern/Star Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops_concept_25th_July/oops_concept_25th_July.iml" filepath="$PROJECT_DIR$/oops_concept_25th_July/oops_concept_25th_July.iml" />
       <module fileurl="file://$PROJECT_DIR$/package july02/package july02.iml" filepath="$PROJECT_DIR$/package july02/package july02.iml" />
       <module fileurl="file://$PROJECT_DIR$/package july07/package july07.iml" filepath="$PROJECT_DIR$/package july07/package july07.iml" />
