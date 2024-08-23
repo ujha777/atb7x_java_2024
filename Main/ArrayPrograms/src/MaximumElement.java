@@ -9,7 +9,10 @@ public class MaximumElement {
 
             }
         }
-        System.out.println(max);
+        System.out.println("Maximum element "+max);
+
+
+
     }
 
 }
